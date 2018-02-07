@@ -1,0 +1,8 @@
+Mouse               25        25.5      
+keyboard            15        20.5      
+headphone           30        30        
+lcd                 50        250       
+flash               5         50        
+wirelessmouse       10        40        
+monitorjack         200       5.5       
+usb                 100       3.5       

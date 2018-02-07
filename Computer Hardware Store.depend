@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1469432209 source:e:\c++ projects\computer hardware store\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1469498552 source:e:\c++ projects\training project\computer hardware store\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1469540390 source:d:\computer hardware store\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+
+1469569502 source:c:\users\mossab hsaballah\desktop\computer hardware store\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+
+1469632940 source:i:\computer hardware store\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<conio.h>
+
